@@ -40,9 +40,4 @@ sudo modprobe i2c-gpio To take care of dependencies
 
 sudo insmod driver_bus.ko To insert kernel space module for I2C adapter.
 
-sudo insmod driver_client.ko To insert kernel space module for I2C client and GPIO subsystem. alt text
-
-alt text alt text
-
-Arduino Serial monitor
-alt text
+sudo insmod driver_client.ko To insert kernel space module for I2C client and GPIO subsystem.
