@@ -1,4 +1,4 @@
-# Exporting-GPIO-pins-of-Arduino-UNO-Slave-to-the-Device-file-of-Raspberry-pi-usingI2C-Communication-
+# Device driver for Raspberry pi and Arduino communication using I2C Protocol and GPIO subsystem.
 Exporting GPIO pins of Arduino-UNO(Slave) as files to the /sys/class/gpio directory of Raspberry pi and manipulating the GPIO pins by writing into those device files.
 
 Connecting RaspberryPi in Master Mode to Arduino in Slave mode using I2C protocol and GPIO subsystem
